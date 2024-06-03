@@ -1,4 +1,4 @@
-public class ReprodutorMusical extends IPhone {
+public class ReprodutorMusical extends Iphone {
 
 
     public void tocar() {

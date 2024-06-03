@@ -1,4 +1,4 @@
-public class AparelhoTelefonico extends IPhone {
+public class AparelhoTelefonico extends Iphone {
 
     public void ligar(String numero) {
         System.out.println("Ligando para numero " + numero);
